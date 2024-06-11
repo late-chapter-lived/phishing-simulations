@@ -1,0 +1,1 @@
+Write-Warning "You weren`'t supposed to run me, remember?"
